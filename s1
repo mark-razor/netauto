@@ -1,4 +1,3 @@
-swirl()
 5 + 7
 x <- 5 + 7
 x
@@ -33,4 +32,3 @@ old.dir <- getwd()
 dir.create("testdir")
 setwd("testdir")
 file.create("mytest.R")
-list.files()
